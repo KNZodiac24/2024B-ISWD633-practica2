@@ -1,3 +1,4 @@
-# COMPLETAR  
 Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
 Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+***
+Considero que la práctica potenció los conocimientos sobre el ecosistema docker y sus diferentes configuraciones, como un mapeo de puertos más general y las redes. Algo principal a destacar es la función de poder interactuar con una terminal dentro del propio contenedor, ya que se pueden realizar más operaciones de esa manera. También el comando logs es muy útil para la resolución de problemas como la configuración de las variables de entorno. Con todas estas nociones, las podemos juntar para crear un entorno de desarrollo más completo para algún proyecto que requiera de varios sevicios, como el ejercicio de mysql y wordpress.
