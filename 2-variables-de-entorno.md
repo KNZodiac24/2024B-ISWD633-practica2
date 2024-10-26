@@ -54,6 +54,4 @@ docker run -P -d --name mysql --env-file=variables_mysql.txt mysql:8
 ![Variables de entorno mysql](img/var_ent_mysql.png)
 
 ### ¿Qué bases de datos existen en el contenedor creado?
-```
-docker exec -it mysql mysql -uroot -proot123 -e "SHOW DATABASES;"
-```
+Con la instrucción `docker exec -it mysql mysql -uroot -proot123 -e "SHOW DATABASES;"` se muestran las bases de datos: information_schema, mysql, performance_schema, sys.
